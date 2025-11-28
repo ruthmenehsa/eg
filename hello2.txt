@@ -1,2 +1,3 @@
 hello
-class
+class 
+updated remotely
